@@ -12,12 +12,12 @@ const Project = () => {
     {
       img: project1,
       name: "Music Player",
-      github_link: "https://github.com/Sridhar-C-25",
+      github_link: "https://github.com/anshi-25/Musify",
     },
     {
       img: project1,
       name: "Social Media",
-      github_link: "https://github.com/Sridhar-C-25",
+      github_link: 
     },
   ];
   return (
